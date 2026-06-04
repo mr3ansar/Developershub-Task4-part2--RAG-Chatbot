@@ -1,0 +1,29 @@
+Artificial Intelligence (AI) is intelligence demonstrated by machines, as opposed to natural intelligence displayed by animals including humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals.
+
+The term "artificial intelligence" had previously been used to describe machines that mimic and display human cognitive skills associated with the human mind, such as learning and problem-solving. This definition has since been rejected by major AI researchers who now describe AI in terms of rationality and acting rationally, which does not limit how intelligence can be articulated.
+
+AI applications include advanced web search engines, recommendation systems used by YouTube, Amazon and Netflix, understanding human speech such as Siri and Alexa, self-driving cars such as Waymo, generative and creative tools such as ChatGPT and AI art, and superhuman play and analysis in strategy games such as chess and Go.
+
+Machine learning (ML) is a subset of artificial intelligence. It is a method of data analysis that automates analytical model building. It is based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. Machine learning algorithms include supervised learning, unsupervised learning, and reinforcement learning.
+
+Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised. Deep learning architectures such as deep neural networks, recurrent neural networks, convolutional neural networks and transformers have been applied to fields including computer vision, speech recognition, natural language processing, and bioinformatics.
+
+Natural Language Processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. The goal is a computer capable of understanding the contents of documents, including the contextual nuances of the language within them.
+
+A transformer is a deep learning architecture developed by researchers at Google and based on the multi-head attention mechanism, proposed in the 2017 paper Attention Is All You Need. It has no recurrent units, and thus requires less training time than previous recurrent neural architectures. Transformers are now the dominant architecture for NLP tasks and have also been applied to computer vision and audio processing.
+
+Large Language Models (LLMs) are very large deep learning models that are pre-trained on vast amounts of data. The underlying transformer is a set of neural networks that consist of an encoder and a decoder with self-attention capabilities. These models can generate text, answer questions, summarize documents, translate languages and perform many other language tasks.
+
+Retrieval-Augmented Generation (RAG) is a technique that combines a retrieval system with a language model. Instead of relying solely on the model's parametric knowledge, RAG retrieves relevant documents from an external knowledge base and uses them as context for generating responses. This allows the model to access up-to-date information and reduces hallucinations.
+
+A vector database stores data as high-dimensional vectors, which are mathematical representations of features or attributes. Each vector has a certain number of dimensions which can range from tens to thousands depending on the complexity of the data being represented. Vector databases are used in similarity search, recommendation systems, and RAG pipelines.
+
+FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. FAISS is written in C++ with complete wrappers for Python. It is developed by Facebook AI Research.
+
+LangChain is a framework for developing applications powered by language models. It enables applications that are context-aware, connecting a language model to sources of context such as documents, databases, and APIs. LangChain provides chains, agents, and memory modules to build complex LLM applications.
+
+Embeddings are numerical representations of text, images or audio in a vector space. Words or phrases with similar meanings are mapped to nearby points in the vector space. Embeddings are the foundation of semantic search and RAG systems, allowing us to find documents that are semantically similar to a query even if they don't share exact keywords.
+
+Groq is an AI infrastructure company that provides ultra-fast inference for large language models. The Groq Language Processing Unit (LPU) achieves significantly faster token generation than traditional GPU-based systems. Groq offers a free API tier with access to models like Llama 3 and Mixtral.
+
+Streamlit is an open-source Python framework for building interactive web applications for data science and machine learning projects. It allows developers to create web apps entirely in Python without requiring front-end web development knowledge. Streamlit apps automatically update when the underlying code changes.
