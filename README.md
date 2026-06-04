@@ -1,5 +1,7 @@
 # RAG Chatbot — Context-Aware Q&A with PDF Support
 
+**🔗 Live App:** [https://rag-chatbot-mr3ansar.streamlit.app/](https://rag-chatbot-mr3ansar.streamlit.app/)
+
 A multilingual, tone-aware RAG chatbot built with LangChain, FAISS, Groq, and Streamlit. Upload PDFs or use the built-in knowledge base — the app retrieves relevant chunks and generates grounded answers.
 
 ## Features
